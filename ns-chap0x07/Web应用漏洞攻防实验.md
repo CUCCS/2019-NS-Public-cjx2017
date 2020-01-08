@@ -155,7 +155,7 @@
 service docker status
 service docker start
 
-#注意需要切换到对应的共工作区
+#注意需要切换到对应的工作区
 docker-compose up -d
 docker ps
 ```
